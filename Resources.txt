@@ -1,0 +1,11 @@
+
+Every thing CS : https://github.com/Developer-Y/cs-video-courses#machine-learning
+
+
+Pandas : https://youtu.be/ZyhVh-qRZPA?si=GP_J0ynaMRIQ4wZU
+
+
+Gaussian elimination visualisation : https://www.algorithm-archive.org/contents/gaussian_elimination/gaussian_elimination.html
+
+
+DS Algo Visualisation : https://visualgo.net/en
